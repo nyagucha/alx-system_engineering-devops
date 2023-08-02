@@ -7,3 +7,4 @@ Display current directory contents :- Long format, with user and group IDs displ
 Make directory "mkdr"
 move file "mv"
 delete a file "rm"
+delete directory "rm -r"
