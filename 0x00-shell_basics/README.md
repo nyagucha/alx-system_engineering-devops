@@ -6,4 +6,4 @@ Display current directory contents, including hidden files   "ls -la .."
 Display current directory contents :- Long format, with user and group IDs displayed numerically, And hidden files "ls -lna"
 Make directory "mkdr"
 move file "mv"
-
+delete a file "rm"
